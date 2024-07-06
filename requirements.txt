@@ -1,0 +1,7 @@
+tensorflow
+keras
+keras_cv
+plotly
+skimage
+matplotlib
+numpy
