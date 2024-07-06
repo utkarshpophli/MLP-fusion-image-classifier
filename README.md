@@ -84,7 +84,7 @@ After our neural network gladiators battled it out in the arena of image classif
 
 
 ![Sample Predictions](images/mlp_model.png)
-*Fig 4: Sample predictions*
+*Fig 1: Sample predictions*
 
 ### 🏆 Key Takeaways
 
